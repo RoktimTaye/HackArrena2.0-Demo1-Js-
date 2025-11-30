@@ -1,0 +1,36 @@
+﻿{
+    "success":  true,
+    "message":  "Login successful",
+    "data":  {
+                 "accessToken":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTJiYWZmNDZiYWIwZWJjNTc3NzFlODYiLCJ0ZW5hbnRJZCI6IjA1OTM2NWQyLTA5NmQtNGRkZC04Yjg3LWMyNGVlMGIyOTRmOSIsInJvbGVzIjpbIkhPU1BJVEFMX0FETUlOIl0sInBlcm1pc3Npb25zIjpbIlVTRVJfQ1JFQVRFIiwiVVNFUl9SRUFEIiwiVVNFUl9VUERBVEUiLCJVU0VSX1NUQVRVU19VUERBVEUiLCJQQVRJRU5UX0NSRUFURSIsIlBBVElFTlRfUkVBRCIsIlBBVElFTlRfVVBEQVRFIiwiUFJFU0NSSVBUSU9OX1JFQUQiLCJNRU5VX1ZJRVciXSwidXNlcm5hbWUiOiJhZG1pbkB0ZXN0aG9zcGl0YWwzIiwiZmlyc3ROYW1lIjoiSG9zcGl0YWwiLCJsYXN0TmFtZSI6IkFkbWluIiwiZGVwYXJ0bWVudCI6IkFETUlOIiwic3RhdHVzIjoiQUNUSVZFIiwiZm9yY2VQYXNzd29yZENoYW5nZSI6ZmFsc2UsImlhdCI6MTc2NDQ3MDgxNCwiZXhwIjoxNzY0NDcxNzE0fQ.NlVdFVLZHg_SvblD2tsjBJWzI5m5iTgtAUua27XvNQE",
+                 "refreshToken":  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2OTJiYWZmNDZiYWIwZWJjNTc3NzFlODYiLCJ0ZW5hbnRJZCI6IjA1OTM2NWQyLTA5NmQtNGRkZC04Yjg3LWMyNGVlMGIyOTRmOSIsInJvbGVzIjpbIkhPU1BJVEFMX0FETUlOIl0sInBlcm1pc3Npb25zIjpbIlVTRVJfQ1JFQVRFIiwiVVNFUl9SRUFEIiwiVVNFUl9VUERBVEUiLCJVU0VSX1NUQVRVU19VUERBVEUiLCJQQVRJRU5UX0NSRUFURSIsIlBBVElFTlRfUkVBRCIsIlBBVElFTlRfVVBEQVRFIiwiUFJFU0NSSVBUSU9OX1JFQUQiLCJNRU5VX1ZJRVciXSwidXNlcm5hbWUiOiJhZG1pbkB0ZXN0aG9zcGl0YWwzIiwiZmlyc3ROYW1lIjoiSG9zcGl0YWwiLCJsYXN0TmFtZSI6IkFkbWluIiwiZGVwYXJ0bWVudCI6IkFETUlOIiwic3RhdHVzIjoiQUNUSVZFIiwiZm9yY2VQYXNzd29yZENoYW5nZSI6ZmFsc2UsImlhdCI6MTc2NDQ3MDgxNCwiZXhwIjoxNzY1MDc1NjE0fQ.6zK7D4tplWntTCdqsker-SFSyMy5WcAf5LCG1uAP7wM",
+                 "mustChangePassword":  false,
+                 "user":  {
+                              "id":  "692baff46bab0ebc57771e86",
+                              "username":  "admin@testhospital3",
+                              "firstName":  "Hospital",
+                              "lastName":  "Admin",
+                              "email":  "admin@test3.com",
+                              "roles":  [
+                                            "HOSPITAL_ADMIN"
+                                        ],
+                              "permissions":  [
+                                                  "USER_CREATE",
+                                                  "USER_READ",
+                                                  "USER_UPDATE",
+                                                  "USER_STATUS_UPDATE",
+                                                  "PATIENT_CREATE",
+                                                  "PATIENT_READ",
+                                                  "PATIENT_UPDATE",
+                                                  "PRESCRIPTION_READ",
+                                                  "MENU_VIEW"
+                                              ],
+                              "department":  "ADMIN",
+                              "status":  "ACTIVE",
+                              "forcePasswordChange":  false,
+                              "tenantId":  "059365d2-096d-4ddd-8b87-c24ee0b294f9",
+                              "tenantDomain":  "testhospital3",
+                              "tenantName":  "Test Hospital 3"
+                          }
+             }
+}

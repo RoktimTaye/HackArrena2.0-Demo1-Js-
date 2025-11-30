@@ -1,0 +1,63 @@
+﻿{
+    "success":  true,
+    "data":  [
+                 {
+                     "key":  "dashboard",
+                     "label":  "menu.dashboard",
+                     "path":  "/app/dashboard",
+                     "icon":  "dashboard"
+                 },
+                 {
+                     "key":  "patients",
+                     "label":  "menu.patients",
+                     "icon":  "patients",
+                     "children":  [
+                                      {
+                                          "key":  "patients.list",
+                                          "label":  "menu.patients.list",
+                                          "path":  "/app/patients"
+                                      },
+                                      {
+                                          "key":  "patients.create",
+                                          "label":  "menu.patients.create",
+                                          "path":  "/app/patients/new"
+                                      }
+                                  ]
+                 },
+                 {
+                     "key":  "prescriptions",
+                     "label":  "menu.prescriptions",
+                     "icon":  "prescriptions",
+                     "children":  [
+                                      {
+                                          "key":  "prescriptions.create",
+                                          "label":  "menu.prescriptions.create",
+                                          "path":  "/app/prescriptions/new"
+                                      }
+                                  ]
+                 },
+                 {
+                     "key":  "users",
+                     "label":  "menu.users",
+                     "icon":  "users",
+                     "children":  [
+                                      {
+                                          "key":  "users.list",
+                                          "label":  "menu.users.list",
+                                          "path":  "/app/users"
+                                      },
+                                      {
+                                          "key":  "users.create",
+                                          "label":  "menu.users.create",
+                                          "path":  "/app/users/new"
+                                      }
+                                  ]
+                 },
+                 {
+                     "key":  "profile",
+                     "label":  "menu.profile",
+                     "path":  "/app/profile",
+                     "icon":  "profile"
+                 }
+             ]
+}

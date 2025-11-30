@@ -1,0 +1,23 @@
+﻿{
+    "success":  true,
+    "message":  "Patient registered successfully",
+    "data":  {
+                 "patientId":  "059365d2-096d-4ddd-8b87-c24ee0b294f9-P-2",
+                 "firstName":  "Alice",
+                 "lastName":  "Doe",
+                 "dateOfBirth":  "1990-05-15T00:00:00.000Z",
+                 "gender":  "FEMALE",
+                 "bloodGroup":  "O+",
+                 "contactPhone":  "19876543210",
+                 "contactEmail":  "alice@example.com",
+                 "address":  "456 Elm St",
+                 "emergencyContactName":  "Bob Doe",
+                 "emergencyContactPhone":  "11234567890",
+                 "patientType":  "OPD",
+                 "department":  "CARDIOLOGY",
+                 "_id":  "692bb0d537800b46370a4164",
+                 "createdAt":  "2025-11-30T02:49:57.259Z",
+                 "updatedAt":  "2025-11-30T02:49:57.259Z",
+                 "__v":  0
+             }
+}

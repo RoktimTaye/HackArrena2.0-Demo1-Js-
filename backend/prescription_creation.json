@@ -1,0 +1,26 @@
+﻿{
+    "success":  true,
+    "message":  "Prescription created successfully",
+    "data":  {
+                 "prescriptionId":  "059365d2-096d-4ddd-8b87-c24ee0b294f9-RX-1",
+                 "patientId":  "059365d2-096d-4ddd-8b87-c24ee0b294f9-P-2",
+                 "doctorId":  "692baff46bab0ebc57771e86",
+                 "doctorName":  "Hospital Admin",
+                 "department":  "CARDIOLOGY",
+                 "visitDate":  "2025-11-30T02:50:35.648Z",
+                 "medicines":  [
+                                   {
+                                       "name":  "Paracetamol",
+                                       "dosage":  "500mg",
+                                       "frequency":  "Twice a day",
+                                       "duration":  "5 days",
+                                       "instructions":  "After food"
+                                   }
+                               ],
+                 "notes":  "Patient advised to rest.",
+                 "_id":  "692bb0fb0e5412357109945c",
+                 "createdAt":  "2025-11-30T02:50:35.658Z",
+                 "updatedAt":  "2025-11-30T02:50:35.658Z",
+                 "__v":  0
+             }
+}
